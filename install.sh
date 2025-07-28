@@ -1,9 +1,9 @@
-# Author: goabonga (https://github.com/goabonga)
+# Author: Chris Becker (goabonga: https://github.com/goabonga)
 # Date: 11 Jul 2025
 # GitHub Issue Link: https://github.com/OpenSees/OpenSees/issues/1633
 
 # Description:
-# This script installs OpenSees v.3.7.1 and it was tested on Ubuntu 24.04 and Debian 12 Bookworm.
+# This script installs OpenSees v.3.7.1 and it was tested on Debian GNU/Linux 12 Bookworm and Ubuntu 24.04.
 
 # Usage:
 # chmod +x install.sh
